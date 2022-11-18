@@ -13,7 +13,7 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 1. `API_ID` : Get From [my.telegram.org](https://my.telegram.org/)
 2. `API_HASH` : Get from [my.telegram.org](https://my.telegram.org)
 3. `BOT_TOKEN` : [@Botfather](https://telegram.dog/BotFather)
-4. `SESSION_STRING` : Generate From here [![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-yellowgreen)](https://repl.it/@subinps/getStringName)
+4. `SESSION_STRING` : Generate From here [![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-yellowgreen)](https://repl.it/@ModifiedZer0/getStringName)
 5. `CHAT` : ID of Channel/Group where the bot plays Music.
 
 ## Recommended Optional Vars
@@ -92,14 +92,5 @@ python3 main.py
 Kanging this codes and and editing a few lines and releasing a V.x  or an [alpha](https://telegram.dog/subin_works/204), beta , gama branches of your repo wont make you a Developer.
 Fork the repo and edit as per your needs.
 
-## LICENSE
-
-- [GNU General Public License](./LICENSE)
-
-
-## CREDITS
-
-- [Laky-64](https://github.com/Laky-64) for [py-tgcalls](https://github.com/pytgcalls/pytgcalls)
-- [Dan](https://github.com/delivrance) for [Pyrogram](https://github.com/pyrogram/pyrogram)
 
 
