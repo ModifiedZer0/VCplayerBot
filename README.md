@@ -13,7 +13,7 @@ Telegram bot to stream videos in telegram voicechat for both groups and channels
 1. `API_ID` : Get From [my.telegram.org](https://my.telegram.org/)
 2. `API_HASH` : Get from [my.telegram.org](https://my.telegram.org)
 3. `BOT_TOKEN` : [@Botfather](https://telegram.dog/BotFather)
-4. `SESSION_STRING` : Generate From here [![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-yellowgreen)](https://repl.it/@ModifiedZer0/getStringName)
+4. `SESSION_STRING` : Generate From here [![GenerateStringName](https://img.shields.io/badge/repl.it-generateStringName-yellowgreen)](https://repl.it/@ModifiedZer0/VCplayerBot)
 5. `CHAT` : ID of Channel/Group where the bot plays Music.
 
 ## Recommended Optional Vars
